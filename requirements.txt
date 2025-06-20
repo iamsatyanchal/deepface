@@ -13,3 +13,5 @@ lightgbm>=2.3.1
 dlib>=19.20.0
 retina-face>=0.0.1
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
